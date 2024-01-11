@@ -1,1 +1,2 @@
-sanguo
+1 Local=VIP,socket://localhost:7003#DDB3D8346D61,socket://localhost:7500#DDB3D8346D61
+news=Xin chào xin chào hihihi
