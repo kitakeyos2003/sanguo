@@ -1,2 +1,2 @@
-1 Local=VIP,socket://localhost:20081#DDB3D8346D61,socket://localhost:7500#DDB3D8346D61
+1 Local=VIP,socket://localhost:7100#DDB3D8346D61,socket://localhost:7500#DDB3D8346D61
 news=Xin chào xin chào hihihi
